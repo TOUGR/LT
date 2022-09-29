@@ -8,3 +8,4 @@ Material para el capítulo de Líneas de Transmisión:
 6. Problemas de líneas sin pérdidas. 1.
 7. Lines.py: paquete con funciones que usaremos a lo largo del tema
 8. Práctica 1 de Carta de Smith: material que usaremos en la sesión de grupos reducidos.
+9. Problemas_Lossless: Problemas de líneas sin pérdidas 2. 
